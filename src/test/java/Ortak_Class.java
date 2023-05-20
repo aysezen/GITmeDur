@@ -3,6 +3,7 @@ public class Ortak_Class {
         System.out.println("Buradan bir Ayse gecti");
         System.out.println("babayigit geldi");
         System.out.println("recep hep buralardaydi.");
+        System.out.println("ortalık karışacak vaziyet alın -- babayigit");
     }
 
 }
